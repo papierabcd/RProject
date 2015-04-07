@@ -6,11 +6,19 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\DEBIL</sprite>
+=======
+    <sprite>sprites\sprite0</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+<<<<<<< HEAD
+=======
+    <object>objects\object0</object>
+>>>>>>> origin/master
     <object>objects\object1</object>
   </objects>
   <help>
